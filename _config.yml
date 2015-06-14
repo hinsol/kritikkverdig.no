@@ -5,8 +5,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
+title:               Kritikkverdig.no
+tagline:             for moro skyld
 url:                 http://kritikkverdig.no
 paginate:            1
 baseurl:             ""
