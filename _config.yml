@@ -13,10 +13,10 @@ relative_permalinks: true
 tagline: The Jekyll Butler
 url: http://getpoole.com
 paginate: 1
-baseurl: ''
+baseurl: 
 sass:
   sass_dir: _sass
-  style: :compressed
+  style: compressed
 author:
   name: Mark Otto
   url: https://twitter.com/mdo
